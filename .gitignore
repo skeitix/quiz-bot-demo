@@ -1,0 +1,13 @@
+# Environment
+.env
+
+# Composer dependencies
+/vendor/
+
+# Database
+/data/database.sqlite
+/data/database.sqlite-*
+/data/*.backup
+
+# Logs
+*.log
